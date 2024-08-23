@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am a globetrotting Software Developer whose career journey has taken me across continents. My professional experiences in India, Italy, Germany, Japan, Indonesia, South Africa, and Egypt have not only enriched my cultural understanding but also honed my adaptability and problem-solving skills in diverse work environments.
+
+Currently, I am channeling this international perspective into my studies as a Master's student in Computer Science at RWTH Aachen University, Germany. This phase of my career is about deepening my technical knowledge and preparing myself for future challenges in the dynamic field of software development.
